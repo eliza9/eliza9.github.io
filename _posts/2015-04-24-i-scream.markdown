@@ -7,14 +7,58 @@ image: "img/e.jpg"
 date:   2016-05-30 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+如果最喜欢的网上商店给你推荐了一个你不知道的产品，你会高兴吗？那你退出了很久，购物车还保存了当时放入的状态，你又觉得如何呢？
+就像许多喜欢和期望的个性化网站体验的其他用户用户一样。个性化扩展到所有我们的设备——这些虚拟购物车、手机上的语音通话、游戏准确的记录你离开的地方。但你如何进行这些个性化的设计呢？让我们来看看吧。
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+### 是什么让一个网站变成“个性化”？
+个性化是使网站觉得它是专为用户量身打造的一个元素。它可以在购物车的记住你想买的物品，你离开的一个文档的历史记录或知道你特定的偏好。
+它几乎无处不在——感谢Facebook和亚马逊——完成了用户体验的预期。个性化建立在以登录为基础，利用饼干（cookies）或敏感器件，从设计如何利用个性化的数据开始。
+用户点击或操作行为是在个性化如何工作的根本。你可以为自己的网站跟踪信息通过一些工具，比如Google Analytics（谷歌分析），你会看到从Webdesigner Depot中查到有关用户的部分信息，包含以下这个列表条目：
+>搜索和关键字
+设备类型和接口
+广告点击
+参照源
+购买历史
+位置，主要是用于测绘
+一个网站被访问多久
+日期和时间
+点击模式与导航历史
+表明用户偏好
+人口统计学，例如年龄和性别
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+事实上，网站究竟如何使用，根据网站自身的目标实现个性化元素差异非常大。
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### 1.允许用户创建个人档案
+用户配置文件是一个功能强大的工具。用户喜好的配置文件可以帮助他们塑造一个网站上提供的定制和个性化的选择。网站的所有者利用用户喜好的配置文件的收集成一个巨大数据池，可以帮助提高网站的经验和业绩。
+也有一定信任程度附带创建用户配置文件，用户希望你知道你在某种程度上的某些事情，他们对只基于cookies的做法并不满意。
+配置文件也可以帮助用户只得到想要的东西。用户配置文件其中之一的最著名的案例是Spotify。用户收集自己喜欢的歌曲和参与网络共享，网站会基于这些元素提供大量的新推荐。
+Spotify的交互的美妙之处在于不会感觉有压力，个人元素是分散在整个界面，用户不必去一个特定的位置找到它们，所有的小细节也都如此。请注意，“发现”页面，Spotify从这里引用你关联的社交媒体帐户的个人资料照片，会向你展示这些信息成为专门为你设计的。（让我想到了“网易云音乐”）
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+### 2.保护个人信息
+这几乎是不言而喻的：个性化是有效的，你必须确保所有用户信息安全。虽然个人数据是方便和愉快，但如果用户不信任你的网站，这意味着什么设计都没有用。
+想想所有零售商如亚马逊有关于你的数据：购买记录，地址，信用卡信息，电话号码，浏览记录，愿望清单，这样的例子不胜枚举。你会想想你的信息是绝对安全的吗？想必不会。
+使用一流的安全手段保护用户信息是至关重要的。这包括电子邮件地址、你收集到的财务信息应有尽有。盗号和安全漏洞是用户的一个主要问题，这是网站需要考虑的地方，来保护用户，让他们知道你是应该如何地保护自己。
+
+### 3.启用地理定位
+一种重要的个性化设计是位置。去了解你的用户，你需要知道用户在哪儿，了解他们周围发生了什么，以及如何使用这种设计的优势。
+
+这些例子是无处不在，已根植于移动设备的接口，如果追踪权限开放（比如天气频道）越来越多的网站都开始采用地理位置。如果这些网站知道你在哪里，就能更好地满足你的需求。但有个陷阱：当网站提供服务基于移动设备上的位置，用户通常会设置一个常用的地理定位（或关闭）。对于桌面版网站，用户往往倾向于不启用定位功能，通常需要访问权限。
+
+谷歌地图是定位功能做得比较好的案例之一。你出门的时候经常使用手机导航来驾驶吗？你有没有注意到，地图使用实时数据和潜在的路程选项让来帮助你到达目的地更快？
+
+定位功能作为个人经验，感觉就像是为你量身定制的，这功能作为一个有帮助的、有用的、可以提供介于用户和网站之间的服务。
+
+### 4.时效性的思考（Think Seasonally）
+（“时效性的思考”不知道这样翻译对不对，感觉是这个意思吧，如果有其他解释请告诉我）Think Seasonally是可以让你的网站看起来更加个性化的小技巧之一。利用时事、天气或节假日让用户有种“就在此刻”的体验。
+当涉及到零售销售和促销活动，这种方法尤其重要。许多这些网站会进行时效性的促销活动，仅可能是一段时间的热情。（这个“旺季”，可以一个星期或任何时间段设定了某一天，但这一天可以让用户感觉他们必须做点行动，否则可能会错过很多。）
+使用图片和强调也同样重要，该网站“记住”我作为一个过去的消费者，并基于这个事实而进行持卡人特价促销活动。（让我感觉自己像一个非常重要的客户！）
+
+### 5. 关于“我”
+还有很多网站依靠一很多推荐模型来保持用户的兴趣。通过网站建立的关于用户体系，这些网站建立了用户的忠诚度和信任。用户会想“这个网站或者服务体系是认识我的。”
+虽然这种技术对于以订阅或销售为主的网络平台是非常重要，它可以用于所有网站。这关键的因素是，该网站适应学习用户行为和提供基于这些行为的建议。
+Hulu，举个例子，将在推荐新节目时候是建立在我过去看了的基础上。每观看表演一次，查看一个全系列，用户的点击会影响建议的内容类型。更重要的是这些东西创造一种集中的效果：“Hulu知道我喜欢什么。”相反的，、用户会为这项服务买单，并会留下来成为忠实用户，因为他们不会想用一个重新开始的不理解他们的喜好新服务。
+***
+##总结
+你是如何看待个性化网站的呢？也热衷于此吗？有为你的网站设计建立一些个性化的元素吗？无论你从哪个角度发出的，个性化设计已经成为在设计过程中需要考虑的必要元素了。
+作者：CARRIE COUSINS
+原文：https://designshack.net/articles/ux-design/5-tips-for-designing-personalization/
