@@ -1,10 +1,10 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "UX设计：关于个性化的5个窍门"
+subtitle: "翻译"
+author: "Eliza"
+avatar: "img/authors/Eliza.jpg"
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+date:   2016-05-30 12:12:12
 ---
 
 ### Dolor sit amet?
