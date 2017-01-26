@@ -1,5 +1,5 @@
 ---
-title:  "UX设计：关于个性化的5个窍门"
+title:  "用户体验设计：关于个性化的5个窍门"
 subtitle: "翻译"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
