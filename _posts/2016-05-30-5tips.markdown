@@ -3,7 +3,7 @@ title:  "用户体验设计：关于个性化的5个窍门"
 subtitle: "翻译"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
-image: "eliza9.github.io/img/5tip/5tip-0personalisation.png"
+image: "eliza9.github.io/img/5tip/personalisation.png"
 date:   2016-05-30 12:12:12
 ---
     
