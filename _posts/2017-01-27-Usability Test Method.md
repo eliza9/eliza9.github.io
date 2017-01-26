@@ -3,7 +3,7 @@ title:  "用户体验设计不得不学的可用性测试方法"
 subtitle: "笔记"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
-image: "eliza9.github.io/img/Usability/Usability Test Method.jpg"
+image: "eliza9.github.io/img/Usability/UTM.png"
 date:   2017-01-26 12:12:12
 ---
 
