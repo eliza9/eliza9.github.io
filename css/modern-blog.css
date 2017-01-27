@@ -113,10 +113,6 @@
 	padding: 0 0 1em 0;
 }
 
-.card__content img {
-	position: absolute;
-	margin: 0 auto;
-}
 
 .card__btn-close {
 	font-size: 18px;
