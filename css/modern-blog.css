@@ -113,8 +113,8 @@
 	padding: 0 0 1em 0;
 }
 
-.card__copy img {
-	position: fixed;
+.card__content img {
+	position: absolute;
 	margin: 0 auto;
 }
 
