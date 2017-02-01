@@ -3,10 +3,10 @@ title:  "用户体验设计：完美的提示消息方案"
 subtitle: "翻译"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
-image: "http://upload-images.jianshu.io/upload_images/657313-a741f9c281554092.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+image: "eliza9.github.io/img/notification.png"
 date:   2016-07-29 12:12:12
 ---
-
+![封面](http://upload-images.jianshu.io/upload_images/657313-a741f9c281554092.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 我们所用得到的网站和移动app都有通知功能。原本这个功能是用来帮助我们提升用户体验和易用性的，但在实践中，如果他们设计不良或是不合理的管理，效果总是差强人意。
 在我们日常生活中都会收到手机桌面的通知，你可以切换或关闭你的app的通知。由于这些通知的频率过高，想当然的设计很容易导致不尽如人意的用户体验。
 如何做好一个提示消息的设计呢？何时何地出现合适的提醒消息会更好呢？
