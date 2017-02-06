@@ -3,7 +3,7 @@ title:  "移动app的文本输入框设计"
 subtitle: "翻译"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
-image: "img/App-review/review.jpg"
+image: "img/text-fields-in-mobile-app/text-fields-in-mobile-app.png"
 date:   2016-06-28 12:12:12
 ---
 
