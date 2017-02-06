@@ -1,3 +1,12 @@
+---
+title:  "用户体验设计字典的使用手册"
+subtitle: "笔记"
+author: "Eliza"
+avatar: "img/authors/Eliza.jpg"
+image: "eliza9.github.io/img/Designing Interfaces/界面设计.png"
+date:   2017-02-06 12:12:12
+---
+
 *副标题：《界面设计模式》读后感&读书笔记*
 
 ![《界面设计模式》](http://upload-images.jianshu.io/upload_images/657313-835cc06f58874b15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
