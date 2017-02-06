@@ -1,5 +1,5 @@
 ---
-title:  "移动app的文本输入框设计"
+title:  "用户体验设计：移动App的文本输入框"
 subtitle: "翻译"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
