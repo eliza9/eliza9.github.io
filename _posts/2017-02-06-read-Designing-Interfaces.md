@@ -46,7 +46,7 @@ date:   2017-02-06 12:12:12
 
 
 ![第八章 获取用户输入](http://upload-images.jianshu.io/upload_images/657313-99e6e2edfe3c4ac0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-本章介绍了11种设计模式，之前也经常会在其他博客文章中会读到相关内容，都会被当做设计原则来对待，之前我也翻译过一篇文章：《[移动app的文本输入框设计](http://www.jianshu.com/p/61a88b2d304c)》（欢迎阅读）。
+本章介绍了11种设计模式，之前也经常会在其他博客文章中会读到相关内容，都会被当做设计原则来对待，之前我也翻译过一篇文章：《[移动app的文本输入框设计](https://eliza9.github.io/#/2016/06/28/text-fields-in-mobile-app)》（欢迎阅读）。
 
 
 ![第九章 利用社交媒体](http://upload-images.jianshu.io/upload_images/657313-55466e7b2a8713a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
