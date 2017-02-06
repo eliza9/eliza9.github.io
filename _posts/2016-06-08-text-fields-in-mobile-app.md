@@ -28,7 +28,7 @@ date:   2016-06-28 12:12:12
 
 ![img](http://upload-images.jianshu.io/upload_images/657313-960483b567d97732.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-左，用户需要点击123键来切换键盘类型以便使用数字键盘；右，我们应该为需要输入数字的文本区域自动匹配合适的数字键盘
+【注释：左，用户需要点击123键来切换键盘类型以便使用数字键盘；右，我们应该为需要输入数字的文本区域自动匹配合适的数字键盘】
 
 
 确保此匹配是整个应用程序，而不是只针对某些任务而不是一致性的实现。
@@ -66,7 +66,7 @@ date:   2016-06-28 12:12:12
 
 ![img](http://upload-images.jianshu.io/upload_images/657313-8fd7eecd0e77982a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-左，数据输入框的样式符合惯例（把电话号码分割成三个输入框），其余表单被键盘遮挡：右，输入框支持输入灵活的内容，并且输入完成后自动提高以便不会被键盘遮挡
+【注释：左，数据输入框的样式符合惯例（把电话号码分割成三个输入框），其余表单被键盘遮挡：右，输入框支持输入灵活的内容，并且输入完成后自动提高以便不会被键盘遮挡】
 
 
 
@@ -78,7 +78,7 @@ date:   2016-06-28 12:12:12
 
 ![img](http://upload-images.jianshu.io/upload_images/657313-350049e84e808a01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-提供了搜索建议的文本域
+【注释：提供了搜索建议的文本域】
 
 
 **标签和帮助信息**
@@ -96,13 +96,13 @@ date:   2016-06-28 12:12:12
 
 ![img](http://upload-images.jianshu.io/upload_images/657313-907eec946f01b2bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-输入框的标签是 ‘电话’、’入住’、‘退房’
+【注释：输入框的标签是 ‘电话’、’入住’、‘退房’】
 
 如果你需要更多关于输入框的信息，提示文本可以帮助用户解除困惑、并避免犯错。
 
 ![img](http://upload-images.jianshu.io/upload_images/657313-8eb7cc5da569f8a1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-‘phone’文本框下方的信息是帮助文本
+【注释：‘phone’文本框下方的信息是帮助文本】
 
 
 
@@ -112,7 +112,7 @@ date:   2016-06-28 12:12:12
 
 ![img](http://upload-images.jianshu.io/upload_images/657313-0b15cc86ee358cfb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-左：生僻的文案会迷惑用户；右： 清晰易懂的术语易于用户理解
+【注释：左：生僻的文案会迷惑用户；右： 清晰易懂的术语易于用户理解】
 
 
 
@@ -181,12 +181,17 @@ date:   2016-06-28 12:12:12
 
 ![img](http://upload-images.jianshu.io/upload_images/657313-0690bb6a653e5382.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-密码输入框的提醒状态
+
+【注释：密码输入框的提醒状态】
 
 
 另一个运用颜色的优秀案例是对文本输入框做出字数限制。红色的字符计数器及红色下划线说明该输入框字数已超限。
 ![img](http://upload-images.jianshu.io/upload_images/657313-b2b8d0e1034c0c96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-Material Design的设计
+
+
+【注释：Material Design的设计】
+
+
 
 界面中颜色的应用应该符合用户认知，这是衡量优秀视觉设计的重要标准之一。
 
@@ -197,5 +202,6 @@ Material Design的设计
 
 
 原作者：Nick Babich
+
 
 原文：[https://uxplanet.org/text-fields-in-mobile-app-11d41f13e31#.914wa1yw3](https://uxplanet.org/text-fields-in-mobile-app-11d41f13e31#.914wa1yw3)
