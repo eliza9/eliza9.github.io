@@ -11,7 +11,7 @@ date:   2016-06-28 12:12:12
 
 ![yonghutiyansheji](http://image.woshipm.com/wp-files/2016/12/ypbp48VeebaoMI3s1CDi.png)
 
-人人都是产品经理的发布网址是：http://www.woshipm.com/pd/490211.html
+人人都是产品经理的发布网址是：[http://www.woshipm.com/pd/490211.html](https://eliza9.github.io/#/2016/06/28/text-fields-in-mobile-app)
 
 
 “给这个app打分！ ”弹出这样的对话框已非常寻常，很难做到不被提示去评论。在如今的app中，这种扰人的要求设置太多见了：
