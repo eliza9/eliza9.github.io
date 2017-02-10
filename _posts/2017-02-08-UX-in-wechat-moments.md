@@ -3,7 +3,7 @@ title:  "朋友圈外链的用户体验分析"
 subtitle: "UX分析"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
-image: "eliza9.github.io/img/coments/coments.jpg"
+image: "eliza9.github.io/img/moments/moments.jpg"
 date:   2017-02-08 12:12:12
 ---
 
@@ -12,7 +12,7 @@ date:   2017-02-08 12:12:12
 这篇文章最早发布在简书，发布后被推荐至首页，后受邀发布在《人人都是产品经理》中，题目为《UX分析：朋友圈的外链知多少？》，网址链接：[http://www.woshipm.com/ucd/582888.html](http://www.woshipm.com/ucd/582888.html)
 （你们知道吗？朋友圈的英文翻译是：moments，而不是friends circle哦~）
 
-![简书推荐](eliza9.github.io/img/coments/cute.jpg)
+![简书推荐](eliza9.github.io/img/moments/cute.jpg)
 
 正文：
 
