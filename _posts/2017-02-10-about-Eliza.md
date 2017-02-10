@@ -17,7 +17,7 @@ date:   2017-02-10 12:12:12
 
 **分析类**
 
-· [朋友圈外链的用户体验分析 ^-^](https://eliza9.github.io/#/2017/02/08/UX-in-wechat-coments)
+· [朋友圈外链的用户体验分析 ^-^](https://eliza9.github.io/#/2017/02/08/UX-in-wechat-moments)
 
 
 **翻译类**
