@@ -1,8 +1,15 @@
-封尘的一些设计稿
+---
+title:  "封尘的一些设计稿（不要点开，没写完）"
+subtitle: "案例"
+author: "Eliza"
+avatar: "img/authors/Eliza.jpg"
+image: "eliza9.github.io/img/example/something.jpg"
+date:   2016-04-10 12:12:12
+---
 
 
 
-（还没写好，待补充）
+# （还没写好，待补充）
 
 【百盛微信服务号改版】（原型）
 
