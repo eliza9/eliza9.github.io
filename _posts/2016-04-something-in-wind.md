@@ -98,7 +98,7 @@ date:   2016-04-10 12:12:12
 
 · banner3：促销专题2
 
-![slide](https://github.com/eliza9/eliza9.github.io/[img](https://github.com/eliza9/eliza9.github.io/tree/master/img)/[example](https://github.com/eliza9/eliza9.github.io/tree/master/img/example)/**商城的silde设计稿.png**)
+![slide](eliza9.github.io/img/example/商城的silde设计稿.png)
 
 个人解说：
 
