@@ -80,7 +80,7 @@ date:   2016-04-10 12:12:12
 
 · 活动效果：活动当日成交金额超过平均日成交量的5倍，当月总成交量超过月计划271%
 
-![731](https://github.com/eliza9/eliza9.github.io/blob/master/img/example/%E9%A1%BA%E9%A3%8E%E8%B4%AD731.png)
+![731](eliza9.github.io/img/example/顺风购731.png)
 
 个人解说：
 
