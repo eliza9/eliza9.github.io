@@ -1,17 +1,14 @@
 ---
-title:  "封尘的一些设计稿（不要点开，没写完）"
+title:  "部分经手案例的设计过程"
 subtitle: "案例"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
 image: "eliza9.github.io/img/example/something.jpg"
-date:   2016-04-10 12:12:12
+date:   2017-02-15 12:12:12
 ---
 
 
-
-# （还没写好，待补充）
-
-【百盛微信服务号改版】
+# 【百盛微信服务号改版】（含原型）
 
 
 1. 竞品分析：
@@ -42,22 +39,41 @@ date:   2016-04-10 12:12:12
 百盛作为我们的客户，其实和上述公众号主题上的功能要求也得类似的，保留三个点，但具体的细化都让我们自己发挥，另外额外叮嘱了需要有邀请好友得积分的服务，同时他们为其会员提供具体服务有：会员积分，好礼兑换。
 
 
-3. 初步结构方案：
+3. 解决方案：
 
-![初步](eliza9.github.io/img/example/百盛-初步.png)
+（1）初步设计：
 
-（1）解决方案：
+![初步](http://imglf1.nosdn.127.net/img/cWYrcXlOUGdFai82aWVaVlo2dlFkWnA0WXE5NGtPSTZHZDF2dmtzczk3Z1ZWYnl1MWxiS2h3PT0.png?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg)
 
-说明：
+（2）原型设计：
 
- · 微信最多三个一级菜单五个子菜单条目，最左的第一个栏目可以根据具体商城营销活动，通过更灵活的变动，来呼应和烘托线下活动的氛围。类似大悦城的摩天轮活动。同时配上微信图文宣传，是可以达到良好的用户交流的效果的。
+![初步](http://imglf0.nosdn.127.net/img/cWYrcXlOUGdFai82aWVaVlo2dlFkZElsNFJWTnZtZ1IrMkFyUjhucTkwdTVqb0RYbVkyb0FBPT0.png?imageView&thumbnail=2000y1436&type=jpg&quality=96&stripmeta=0&type=jpg)
+
+![初步](http://imglf.nosdn.127.net/img/cWYrcXlOUGdFai82aWVaVlo2dlFkZS9lNUpDZTBtenNPZnR2WFFwci80K0xxL0NCWUNTTEhBPT0.png?imageView&thumbnail=2000y1599&type=jpg&quality=96&stripmeta=0&type=jpg)
+
+![初步](http://imglf.nosdn.127.net/img/cWYrcXlOUGdFai82aWVaVlo2dlFkYTVsbnhROXF5aTR1bmZ3NWRJNzlUUmttZVcvZGkwVVFnPT0.png?imageView&thumbnail=2000y1919&type=jpg&quality=96&stripmeta=0&type=jpg)
+
+（3）设计说明：
+
+ · 微信最多三个一级菜单五个子菜单条目，最左的第一个栏目可以根据具体商城线下营销活动，通过更灵活的变动，来呼应和烘托线下活动的氛围。类似大悦城的摩天轮活动。同时配上微信图文宣传，是可以达到良好的用户交流的效果的。
  
  · 最右手的栏目，是最靠近右手触控的范围的，所以为了响应客户的要求，突出百盛的会员体系，实现其服务是恰到好处的，关键在于内页的原型，下文会展出。
  
- · 引导App下载的栏目位于三栏居中，相对来说，中间点开的随机可能性是三栏最小的，站在用户的角度，我们需要考虑到这样一种心理状态：“我都已经关注你公众号了，还要特地去下一个App看在你的商城里买东西，我又不是没有淘宝或者其他购物软件，除非我是脑残粉，或者积分利益驱动，不然我懒得下载。”所以我的解决方案就是万达式的，任务模式+利益驱动，同时在App内同步打卡数据，一方面促进用户使用App，一方面让用户看到App能实现的价值。同时还可以配上线上活动优惠券等营销手法，来突出“下载App”可以的到百盛更好的服务等。
+ · 引导App下载的栏目位于三栏居中，相对来说，中间点开的随机可能性是三栏最小的，站在用户的角度，我们需要考虑到这样一种心理状态：“我都已经关注你公众号了，还要特地去下一个App看在你的商城里买东西，我又不是没有淘宝或者其他购物软件，除非我是脑残粉，或者积分利益驱动，不然我懒得下载。”所以我的解决方案就是万达式的，任务模式+利益驱动，所以栏目设置成“微信福利”，同时在App内同步打卡数据，一方面促进用户使用App，一方面让用户看到App能实现的价值。同时还可以配上线上活动优惠券等营销手法，来突出“下载App”可以的到百盛更好的服务等。
+ 
+ · 会员体系是最难设计的，这里显示了全部的原型，包括如何调转，以及流程逻辑，值得一提是，全部的页面设置的是半遮罩式的，下滑遮罩就是实体卡，上滑就是会员中心，手势方便，符合用户心理模型。
+ 
+ （4）用户体验要素：
+ 
+战略层：百货行业通过移动端提供用户更好服务。
 
-（2）设计原型
+范围层：打通微信服务号、App、商城线下，全角度服务。
 
+结构层：服务号功能配合了其他服务渠道，也实现了自身价值。
+
+框架层：页面的跳转逻辑基本完整，而且有开发性，还可以拓展更多，页面的设计符合用户的心理模型。
+
+表现层：在框架层上进一步优化。
 
 
 4. 项目后续：
