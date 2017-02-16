@@ -26,7 +26,7 @@ date:   2017-02-08 12:12:12
 3. 火爆的h5图文
 4. 外链图文、视频或音乐
 
-![外链类型](http://upload-images.jianshu.io/upload_images/657313-d6b20b9c244d3993.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![外链类型](img/moments/1-type.jpg)
 
 生成的外链非常常见，可以说“分享到朋友圈”也是各种app应用利用微信来激增自己的下载量或日活量的一项非常大的功能点。但其中的设计真的做得好吗？这篇文章我小试牛刀来分析一下关于朋友圈外链的用户体验设计。
 
@@ -44,14 +44,15 @@ date:   2017-02-08 12:12:12
    ②视频有的可以直接播放，有播放和暂停，快进和倒退，如{AcFun}，但有的需要单独页面展开，如{bilibili}播放器，同时自带App内的功能，如弹幕等。
 
 
-![音频、视频](http://upload-images.jianshu.io/upload_images/657313-0f01ca17b2115146.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![音频、视频](img/moments/2-context-1.jpg)
 
 
 2. 图文根据内容与功能分为两类，有限（全部显示）内容与可展开内容：
    ①有限（全部显示）内容页尾结构基本与微信公众号的图文相似，如{简书}、{好奇心日报}：
-   ![有限图文](http://upload-images.jianshu.io/upload_images/657313-eb8b66ef2e4bd21d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   ![有限图文](img/moments/2-context-2.png)
+   
    ②生活文字阅读类的，如{豆瓣}、{知乎}等生成的外链可展开内容就有很多，而且还涉及到后文的跳转问题。（①中好奇心日报尾部紫色框出也属于可展开内容，但和{知乎}一样，不能直接打开，设置了门槛。），如图：
-   ![可展开图文](http://upload-images.jianshu.io/upload_images/657313-be61edd25a007436.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   ![可展开图文](img/moments/2-context-3.jpg)
 
 
 ### 本元素的UX设计点——
@@ -74,7 +75,7 @@ date:   2017-02-08 12:12:12
 
 但并不是说，我们要学习一下公众号那些逆天的可以用来斗链接的标题。
 （衍生阅读：《[还在斗图？现在已经开始斗鸡汤文链接了](http://mt.sohu.com/20170122/n479314684.shtml)》，会摘部分图对比出来，App外链确实不需要这样做，虽然h5中标题是重要营销手段，但目的不同，所以不完全值得效仿。）
-![2-title.png](http://upload-images.jianshu.io/upload_images/657313-007a0c9851b32a9a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![2-title.png](img/moments/2-title.jpg)
 
 上图所列举一些朋友圈外链标题都是比较正常的，强调格式的重要性。
 
@@ -105,28 +106,28 @@ date:   2017-02-08 12:12:12
 
 **路径一：下载app**
 
-![路径一](http://upload-images.jianshu.io/upload_images/657313-243fdb86dc5b7b6e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![路径一](img/moments/3-skip-R1.jpg)
 
 **路径二：app内打开**
 
-![路径二](http://upload-images.jianshu.io/upload_images/657313-3453b39527e13bf6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![路径二](img/moments/3-skip-R2.jpg)
 
 **路径三：跳转注册（登陆微信号再绑定微信号注册）**
-![路径三](http://upload-images.jianshu.io/upload_images/657313-a3c9d0a75848e245.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![路径三](img/moments/3-skip-R3.jpg)
 
 
 **路径四：跳转手机版（可以登录的）浏览器版**
 
-![路径四](http://upload-images.jianshu.io/upload_images/657313-397440199729d8ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![路径四](img/moments/3-skip-R4.jpg)
 跳转浏览器的本质就是从路径四到路径一，还是让用户“下载App”。
 *这里有一个问题：手机版与app内的异同（对比案例：{豆瓣}）
 
-![案例：{豆瓣}](http://upload-images.jianshu.io/upload_images/657313-5251fca0435ea213.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![案例：{豆瓣}](img/moments/3-skip-R1-vs.jpg)
 我们可以清晰的看到，{豆瓣}的App和手机版大同小异，然而在手机版设置了各种“心机”，部分图文还是需要在App内才能打开，限制了手机版的功能，本质还是在引导用户下载。（路径四→路径一）
 
 路径五：长按扫描二维码关注公众号
 
-![路径五](http://upload-images.jianshu.io/upload_images/657313-5cd397bd7cb03aff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![路径五](img/moments/3-skip-R5.jpg)
 其实这就回到了微信内部，目的增加的是公众号的粉丝数量，好吧，但一般公众号图文的“阅读原文”里还是会放外链的，所以这么来来回回的，真是一大盘棋。
 
 ### 本元素的UX设计点——
@@ -137,7 +138,7 @@ date:   2017-02-08 12:12:12
 用户分两种，未注册、已注册；
 场景分两种，未下载App，已下载App。
 那么就画个四象限图：
-![用户与App](http://upload-images.jianshu.io/upload_images/657313-24f3fb536dbd429b.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![用户与App](img/moments/3-skip-User.001.jpg)
 
 观察象限图，仔细想来（箭头指示方向，需要移动的就是第三象限），路径一最后还是会到路径二，通过下载再进入App内（第三象限→第四象限）；路径三会到路径四（第三象限→第二象限）或是路径二（第三象限→第四象限）。
 
@@ -157,7 +158,7 @@ date:   2017-02-08 12:12:12
 同理，音频、视频都最终会引导下载App，在App中打开。
 
 那么所有的跳转逻辑都是一套，如图：
-![跳转逻辑](http://upload-images.jianshu.io/upload_images/657313-9a1c2d1a03715e9d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![跳转逻辑](img/moments/3-skip-logic.jpg)
 
 一般App的内部使用流程都是很清晰的，从App到分享外链，功能都很完整，但从外链到App的过程基本是为了帮助产品经理、运营人员达成增新用户数、增加日活的KPI的，所以我们的UX设计师是不是也注意到了这一点了呢，是真的为了用户而服务的吗？通过理顺以上跳转的逻辑，可以精确你的UX设计了。
 
@@ -179,7 +180,7 @@ date:   2017-02-08 12:12:12
 
 种类太多，列举不过来，选了这三个补充一点自己的想法：
 
-![跳转提示的视觉设计](http://upload-images.jianshu.io/upload_images/657313-b5bd32a17b0fd797.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![跳转提示的视觉设计](img/moments/3-skip-memo.jpg)
 
 种类太多了，列举不过来，选了这三个补充一点自己的想法的：
 
@@ -200,10 +201,10 @@ date:   2017-02-08 12:12:12
 
 综合之前列举过的的页面，整理出用户交互的动机：
 
-![交互的动机](http://upload-images.jianshu.io/upload_images/657313-4ed4f0e784fb94c7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![交互的动机](img/moments/motion.jpg)
 
 
-![栗子](http://upload-images.jianshu.io/upload_images/657313-e790999a6d100dc1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![栗子](img/moments/4-function-motion.jpg)
 
 本元素不需要分析UX设计点，从什么功能中来回什么功能中去，**分享外链的场景设计，才是朋友圈外链的源头**。如果非要说点什么，我个人的看法是，那就是设计有良好互动功能的App就好了！
 
@@ -222,7 +223,7 @@ date:   2017-02-08 12:12:12
 **ps：**
 其实平时我们还会看到一种图片，虽然不是外链，但标有分享来源，如：
 
-![ps~](http://upload-images.jianshu.io/upload_images/657313-67db9b100168779f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ps~](img/moments/4-motion-other.jpg)
 
 {单读} 含二维码的图片分享是可以扫描跳转到下载App的页面的，安卓手机可以直接跳转进入App内，这种用户体验很简洁流畅，还言简意赅。也无强硬的让你下载的意图，如果用户看着有共鸣自然会下载。（而不是遵照背着KPI的产品经理苦心安排好的提示去下载）
 
