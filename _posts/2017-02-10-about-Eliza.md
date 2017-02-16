@@ -21,7 +21,7 @@ date:   2017-02-10 12:12:12
 
 **案例类**
 
-· [Exo？一个“失败的”百货类微信服务号的设计案例？](https://eliza9.github.io/#/2017/02/16/Exo-one-fired-case)
+· [Exo？一个“失败的”百货类微信服务号的设计案例？^-^](https://eliza9.github.io/#/2017/02/16/Exo-one-fired-case)
 
 · [一些创意设计稿吧！](https://eliza9.github.io/#/2016/04/15/something-in-wind)
 
@@ -57,7 +57,7 @@ date:   2017-02-10 12:12:12
 
 · 由于JS（或许是其他语言）的能力有限，本来想打造一个目录筛选器的，demo图如下，但可能目前实现有点困难，所以手动目录。
 
-![demo](eliza9.github.io/img/myslf-a-little/demo.gif?imageMogr2/auto-orient/strip)
+![demo](img/myslf-a-little/demo.gif?imageMogr2/auto-orient/strip)
 
 <br>
 <br/>
@@ -83,7 +83,7 @@ date:   2017-02-10 12:12:12
 
 （下列都已认真读完，共计25本，不包括我觉得太烂不值得读的。还在持续学习中！我爱UX设计！我爱学习！学习使我快乐！）
 
-![书单 ](eliza9.github.io/img/myslf-a-little/book.jpg)
+![书单 ](img/myslf-a-little/book.jpg)
 
 **交互设计书单**
 
@@ -129,7 +129,7 @@ date:   2017-02-10 12:12:12
 
 性格其实很鬼马，不要被上图骗了，下图才是真实的！
 
-![少女心](eliza9.github.io/img/myslf-a-little/WechatIMG1.jpg)
+![少女心](img/myslf-a-little/WechatIMG1.jpg)
 
 ——秀一发百变小森魔术棒交通卡套
 
@@ -139,4 +139,4 @@ date:   2017-02-10 12:12:12
 联系邮箱：sensen930@foxmail.com
 
 也可以关注我的微信公众号（虽然有点懒，不怎么更新，以前写过小说，也发过水彩画作，之后打算念诗，哈哈）：
-![wechat](eliza9.github.io/img/myslf-a-little/二维码.jpg)
+![wechat](img/myslf-a-little/二维码.jpg)
