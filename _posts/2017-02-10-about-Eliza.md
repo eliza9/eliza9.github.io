@@ -19,6 +19,10 @@ date:   2017-02-10 12:12:12
 
 · [朋友圈外链的用户体验分析 ^-^](https://eliza9.github.io/#/2017/02/08/UX-in-wechat-moments)
 
+**案例类**
+
+· [Exo？一个“失败的”百货类微信服务号的设计案例？](https://eliza9.github.io/#/2017/02/16/Exo-one-fired-case)
+· [一些创意设计稿吧！](https://eliza9.github.io/#/2016/04/15/something-in-wind)
 
 **翻译类**
 
