@@ -1,5 +1,5 @@
 ---
-title:  "一些创业设计稿吧"
+title:  "一些创意设计稿吧"
 subtitle: "案例"
 author: "Eliza"
 avatar: "img/authors/Eliza.jpg"
