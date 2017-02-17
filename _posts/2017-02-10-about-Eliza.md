@@ -17,30 +17,30 @@ date:   2017-02-10 12:12:12
 
 **分析类**
 
-· [朋友圈外链的用户体验分析 ^-^](https://eliza9.github.io/#/2017/02/08/UX-in-wechat-moments)
+· [朋友圈外链的用户体验分析 ^-^](https://eliza.seearm.com/#/2017/02/08/UX-in-wechat-moments)
 
 **案例类**
 
-· [Exo？一个“失败的”百货类微信服务号的设计案例？^-^](https://eliza9.github.io/#/2017/02/16/Exo-one-fired-case)
+· [Exo？一个“失败的”百货类微信服务号的设计案例？^-^](https://eliza.seearm.com/#/2017/02/16/Exo-one-fired-case)
 
-· [一些创意设计稿吧！](https://eliza9.github.io/#/2016/04/15/something-in-wind)
+· [一些创意设计稿吧！](https://eliza.seearm.com/#/2016/04/15/something-in-wind)
 
 **翻译类**
 
-· [用户体验设计：关于App中邀请评价的提示框 ^-^](https://eliza9.github.io/#/2016/06/28/prompting-for-app-review)
+· [用户体验设计：关于App中邀请评价的提示框 ^-^](https://eliza.seearm.com/#/2016/06/28/prompting-for-app-review)
 
-· [移动app的文本输入框设计](https://eliza9.github.io/#/2016/06/28/text-fields-in-mobile-app)
+· [移动app的文本输入框设计](https://eliza.seearm.com/#/2016/06/28/text-fields-in-mobile-app)
 
-· [用户体验设计：完美的提示消息方案](https://eliza9.github.io/#/2016/07/29/designing-the-perfect-notification-ux)
+· [用户体验设计：完美的提示消息方案](https://eliza.seearm.com/#/2016/07/29/designing-the-perfect-notification-ux)
 
-· [用户体验设计：关于个性化的5个窍门](https://eliza9.github.io/#/2016/05/30/5tips)
+· [用户体验设计：关于个性化的5个窍门](https://eliza.seearm.com/#/2016/05/30/5tips)
 
 
 **笔记类**
 
-· [用户体验设计字典的使用手册](https://eliza9.github.io/#/2017/02/06/read-Designing-Interfaces)
+· [用户体验设计字典的使用手册](https://eliza.seearm.com/#/2017/02/06/read-Designing-Interfaces)
 
-· [用户体验设计不得不学的可用性测试方法](https://eliza9.github.io/#/2017/01/26/Usability-Test-Method)
+· [用户体验设计不得不学的可用性测试方法](https://eliza.seearm.com/#/2017/01/26/Usability-Test-Method)
 
 
 
