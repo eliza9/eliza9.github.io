@@ -1,4 +1,4 @@
-# Jekyll Modern Blog
+# Eliza's Will
 
 A Simple, Clean and responsive modern blog for jekyll.
 
